@@ -36,7 +36,7 @@ CREATE TABLE public.users (
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/csv-to-postgresql.git
+git clone https://github.com/coolshatul/CSV-to-JSON-Age-Distribution-Report.git
 cd csv-to-postgresql
 ```
 
